@@ -1,2 +1,2 @@
 # PlaceEZ
-Z (Thapar’s Placement and Internship Portal)
+(Thapar’s Placement and Internship Portal)
