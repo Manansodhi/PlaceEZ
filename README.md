@@ -76,6 +76,6 @@ JOB POSTING ADMIN
 
 UPDATE DATABASE 
 <p align="center" width="100%">
-    <img width="70%" src="Update Data.jpeg" alt="amanda">
+    <img width="85%" src="Update Data.jpeg" alt="amanda">
 </p>
 
