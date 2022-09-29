@@ -42,7 +42,6 @@ ADMIN LOGIN
 </p>
 
 
-
 <p align="center" width="100%">
     <img width="85%" src="Admin 1.jpeg" alt="amanda">
 </p>
