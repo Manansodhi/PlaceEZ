@@ -1,7 +1,7 @@
 
 
 # PlaceEZ
-(Thapar’s Placement and Internship Portal)
+z(Thapar’s Placement and Internship Portal)
 
  STUDENT LOGIN
 <p align="center" width="100%">
